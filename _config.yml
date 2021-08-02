@@ -34,6 +34,7 @@ author: Joseph Monteyne
 #
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
 metadata: sacred-made-real
+encoding: utf-8
 
 ##########
 # GOOGLE SERVICES [optional!]
