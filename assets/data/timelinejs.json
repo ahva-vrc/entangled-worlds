@@ -14,7 +14,6 @@
         },
         "text": {
           "headline": {{ site.title | append: ' Timeline' | jsonify }},
-          "text": "The role of visual art and architecture within Catholic, Habsburg Spain and colonial Latin America during the early modern period is surveyed, with an emphasis on transculturation from the hybrid forms produced under Islamic mudejar influence to colonial mestizaje in the encounters of Christian visual culture with that of indigenous America."
         }
     },
 
