@@ -2,21 +2,11 @@
 # generate time-focused json data suitable for TimelineJS.
 # includes all items in metadata that have a "date" field filled.
 # Curate the timeline by adding a "where" expression to the assign on the first line.
-# For details, see https://collectionbuilder.github.io/cb-docs/docs/advanced/timelinejs/  
+# For details, see https://collectionbuilder.github.io/cb-docs/docs/advanced/timelinejs/
 ---
 {%- assign items = site.data[site.metadata] | where_exp: 'item', 'item.date' -%}
-{
-    "title": {
-        "media": {
-          "url": "{% include image/featured-image.html %}",
-          "caption": {{ featuredItem.title | jsonify }},
-          "credit": {{ site.title | jsonify }}
-        },
-        "text": {
-          "headline": {{ site.title | append: ' Timeline' | jsonify }},
-          "text": {{ site.description | jsonify }}
-        }
-    },
+
+
     "events": [
       {% for item in items %}{% if item.date %}{
         "media": {
