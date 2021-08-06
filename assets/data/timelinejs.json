@@ -5,7 +5,18 @@
 # For details, see https://collectionbuilder.github.io/cb-docs/docs/advanced/timelinejs/
 ---
 {%- assign items = site.data[site.metadata] | where_exp: 'item', 'item.date' -%}
-
+{
+    "title": {
+        "media": {
+          "url": "{% include image/featured-image.html %}",
+          "caption": {{ featuredItem.title | jsonify }},
+          "credit": {{ site.title | jsonify }}
+        },
+        "text": {
+          "headline": {{ site.title | append: ' Timeline' | jsonify }},
+          "text": "The role of visual art and architecture within Catholic, Habsburg Spain and colonial Latin America during the early modern period is surveyed, with an emphasis on transculturation from the hybrid forms produced under Islamic mudejar influence to colonial mestizaje in the encounters of Christian visual culture with that of indigenous America."
+        }
+    },
 
     "events": [
       {% for item in items %}{% if item.date %}{
