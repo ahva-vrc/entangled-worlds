@@ -10,18 +10,14 @@ credits: true
 
 {% include feature/jumbotron.html objectid="/assets/img/feature/meninas.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Digital Exhibit" %}
 
-## About the Collection
+## About the Entangled Worlds Digital Exhibit Site
 
 This site is meant to showcase content covered in ARTH 320, Entangled Worlds: Art and Architecture in Spain and Colonial Latin America 1500-1700. The course will be taugh by Prof. Joseph Monteyne in Winter I, @ the UBC Department of Art History, Visual Art and Theory (AHVA).
 
-The material on this site is intended for educational and scholarly use as in teaching, research, private study, criticism, and review. The author(s) of the site have made a good faith effort to identify and acknowledge content creators of the various images used on the site. If you desire to claim copyright to an image on this site and want the authors to either take an image down or append proper acknolwdgment for an image, please inform us at remi.castonguay [at] ubc.edu. 
+The material on this site is intended for educational and scholarly use as in teaching, research, private study, criticism, and review. The author(s) of the site have made a good faith effort to identify and acknowledge content creators of the various images used on the site. If you desire to claim copyright to an image on this site and want the authors to either take an image down or append proper acknolwdgment for an image, please inform us at remi.castonguay [at] ubc.edu.
 
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital).
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %}
