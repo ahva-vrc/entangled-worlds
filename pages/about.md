@@ -14,10 +14,10 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from:
+This site is meant to showcase content covered in ARTH 320, Entangled Worlds: Art and Architecture in Spain and Colonial Latin America 1500-1700. The course will be taugh by Prof. Joseph Monteyne in Winter I, @ the UBC Department of Art History, Visual Art and Theory (AHVA).
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+The material on this site is intended for educational and scholarly use as in teaching, research, private study, criticism, and review. The author(s) of the site have made a good faith effort to identify and acknowledge content creators of the various images used on the site. If you desire to claim copyright to an image on this site and want the authors to either take an image down or append proper acknolwdgment for an image, please inform us at remi.castonguay [at] ubc.edu. 
+
 
 The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital).
 
