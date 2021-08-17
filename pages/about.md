@@ -18,6 +18,22 @@ This site is meant to showcase content covered in ARTH 320, Entangled Worlds: Ar
 
 The material on this site is intended for educational and scholarly use as in teaching, research, private study, criticism, and review. The author(s) of the site have made a good faith effort to identify and acknowledge content creators of the various images used on the site. If you desire to claim copyright to an image on this site and want the authors to either take an image down or append proper acknolwdgment for an image, please inform us at remi.castonguay [at] ubc.edu.
 
+Here are some of themes we'll explore this semester:
+
+•	CIRCLE AND SQUARE IN THE ALHAMBRA: Charles v and the arrival of the renaissance in spain
+•	STRIPPED STYLE: PHILIP II AND THE CONSTRUCTION OF EL ESCORIAL
+•	THE ‘BRILLIANT MADNESS’ OF EL GRECO
+•	THE SACRED MADE REAL AND DISPLAYS OF RELIGIOUS AFFECT DURING THE REIGNS OF PHILIP III AND PHILIP IV
+•	THE CARTELA, THE VEIL, AND THE CANVAS: ZURBARAN’S DECEPTIONS
+•	NOBLE OR UGLY, IDEAL OR REPULSIVE: THE NATURALISM OF RIBERA
+•	SPINNERS AND LADIES IN WAITING: VELAZQUEZ AND THE COURT OF PHILIP IV
+•	BEAUTY, CHARITY, HORROR: MURILLO AND JUAN VALDEZ LEAL
+•	THE DREAMS OF A MORIBUND DYNASTY: LATE ESCORIAL PROJECTS AND THE END OF HABSBURG RULE
+•	CONTACT, CONQUEST, AND CONVERSION: MISSION ARCHITECTURE AND DECORATION IN COLONIAL LATIN AMERICA
+•	FROM THE CODEX TO MESTIZO BAROQUE: HYBRID GENRES OF PAINTING IN COLONIAL LATIN AMERICA
+•	FROM THE CATHEDRAL TO THE CASA: THE ARCHITECTURE AND DECORATION OF URBAN CATHEDRALS AND HOUSES IN VICEREGAL MEXICO AND PERU
+
+
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %}
