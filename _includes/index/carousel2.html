@@ -29,11 +29,11 @@
 {%- endcomment -%}
 <style>
     #imageCarousel .carousel-item { height: {{ include.height | remove: 'px' | strip | default: '800' }}px;
-  width: {{ include.width | remove: 'px' | strip | default: '800' }}px; }
+  width: {{ include.width | remove: 'px' | strip | default: '1500' }}px; }
 
 </style>
 <div class="card mb-3">
-    {% if include.header %}<h5 class="card-header">{{ include.header }}</h5>{% endif %}
+    {% if include.header %}<h5 class="card-header">Entangled Worlds</h5>{% endif %}
     <div class="card-body">
         {% if include.title %}<h5 class="card-title">{{ include.title }}</h5>{% endif %}
 
