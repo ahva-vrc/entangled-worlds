@@ -28,7 +28,9 @@
     Set up carousel div
 {%- endcomment -%}
 <style>
-    #imageCarousel .carousel-item { height: {{ include.height | remove: 'px' | strip | default: '800' }}px; }
+    #imageCarousel .carousel-item { height: {{ include.height | remove: 'px' | strip | default: '800' }}px;
+  width: {{ include.width | remove: 'px' | strip | default: '800' }}px; }
+
 </style>
 <div class="card mb-3">
     {% if include.header %}<h5 class="card-header">{{ include.header }}</h5>{% endif %}
