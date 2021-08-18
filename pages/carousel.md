@@ -1,4 +1,5 @@
 ---
+title: Large Carousel Page
 layout: home-infographic2
-title: Home
+permalink: /index/carousel2.html
 ---
