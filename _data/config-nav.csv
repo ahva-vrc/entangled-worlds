@@ -1,8 +1,8 @@
 display_name,stub,dropdown_parent
 Home,/
 Browse,,
-Browse all images,/browse.html
-View a slideshow,/index/carousel.html
+Browse all images,/browse.html,Browse
+View a slideshow,/index/carousel.html,Browse
 Subjects,/subjects.html
 Locations,/locations.html
 Map,/map.html
