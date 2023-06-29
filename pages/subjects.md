@@ -17,13 +17,15 @@ Use this word cloud visualization to browse artworks connected to a specific lec
 Word size is determined by frequency and all words link to a corresponding collection search.
 
 Lectures:
-1. Giotto and the Private Chapel in Padua, Civic and Secular Art in 14th century Siena
-2. Rebuplican Florence and the Theater of Public Life and Public Space: The Early Quattrocento
-3. The Return of the Medici to Florence: Albertian Refinements in Architecture and Painting
-4. Venice between East and West: The Bellini and the Emergence of Oil Painting
-5. Andrea Mantegna at the Mantuan Court
-6. From Typology to Individuality: Portraiture, Identity, Gender
-7. The Cinquecento and the Emergence of Vasari's 'Third Age': Leonardo, Raphael, and Michelangelo
-8. All Roads Lead to the Rome of Pope Julius II
-9. Maniera: High Renaissance Classicism Questioned
-10. Venice: Poesia, Desire and Painting
+1. Introduction To The Spanish Context, and the Pre-Renaissance 
+2. Circle And Square In The Alhambra: Charles V And The Arrival Of The Renaissance In Spain 
+3. Stripped Style: Philip II and the Construction of El Escorial 
+4. The ‘Brilliant Madness’ of El Greco
+5. The Sacred Made Real and Displays of Religious Affect During the Reigns Of Philip III And Philip IV
+6. The Cartela, The Veil, and the Canvas: Zurbarán’s Deceptions
+7. Noble or Ugly, Ideal or Repulsive: The Naturalism of Ribera
+8. Servants, Spinners, and Ladies In Waiting: Velázquez and the Court of Philip IV
+9. Beauty, Charity, Horror: Murillo and Juan Valdéz Leal
+10. Contact, Conquest, and Conversion: Mission Architecture and Decoration in Colonial Latin America
+11. From the Codex to Mestizo Baroque: Hybrid Genres of Painting in Colonial Latin America
+12. From the Cathedral to The Casa: the Architecture and Decoration of Urban Cathedrals and Houses in Viceregal Mexico and Peru
