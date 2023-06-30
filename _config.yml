@@ -33,7 +33,7 @@ author: AHVA VRC and Joseph Monteyne
 # COLLECTION SETTINGS
 #
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
-metadata: sacred-made-real
+metadata: sacred-made-real-copy
 encoding: utf-8
 
 ##########
