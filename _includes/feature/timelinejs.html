@@ -6,10 +6,10 @@
 
     Embeds a TimelineJS built from a JSON file appropriate for any CollectionBuilder page (such as Home or About page).
     CB templates automatically generate a timelinejs json file in "assets/data/timelinejs.json" including all items in metadata with a value in "date" field.
-    By default, this include uses this json file.
+    By default, this include uses this json file. 
 
     Options:
-    - "json" = (optional) path or link to timelinejs json file.
+    - "json" = (optional) path or link to timelinejs json file. 
 
 {% endcomment %}
 {%- assign json = include.json | default: '/assets/data/timelinejs.json' | relative_url -%}
